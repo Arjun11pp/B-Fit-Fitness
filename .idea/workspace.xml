@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55999d31-ee86-473f-9f65-40912909d9c5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ai_fitness_center$ai_fitness_center.coverage" NAME="ai_fitness_center Coverage Results" MODIFIED="1716650219416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ai_fitness_center.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ai_fitness_center.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1716650215963" expanded="true" signature="900:936" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="900:942" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="900:957" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="900:963" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="2506:2537" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="2506:2546" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="2506:2554" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="2506:2555" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="2506:2564" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="2506:2572" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="3096:3168" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="3096:3169" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="3825:3881" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="3825:3890" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="3825:3906" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="3825:3919" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="3937:4006" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="3937:4016" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="3937:4024" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="3937:4032" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="5118:5154" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="5118:5161" ph="select * fro... login" />
+                <marker date="1716650215963" expanded="true" signature="5321:5423" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="5445:5534" ph="insert into physician... " />
+                <marker date="1716650215963" expanded="true" signature="5445:5542" ph="insert into physician... " />
+                <marker date="1716650215963" expanded="true" signature="6689:6756" ph="insert into equipment_details... " />
+                <marker date="1716650215963" expanded="true" signature="6689:6775" ph="insert into physician... " />
+                <marker date="1716650215963" expanded="true" signature="7026:7045" ph="select * fro... batch" />
+                <marker date="1716650215963" expanded="true" signature="7026:7047" ph="select * fro... batches" />
+                <marker date="1716650215963" expanded="true" signature="7070:7084" ph="select * fro... i" />
+                <marker date="1716650215963" expanded="true" signature="7070:7092" ph="select * fro... employee" />
+                <marker date="1716650215963" expanded="true" signature="7447:7490" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7501" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7511" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7516" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7522" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7541" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7542" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7548" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7447:7551" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="7695:7707" ph="insert into db" />
+                <marker date="1716650215963" expanded="true" signature="7695:7732" ph="insert into allocate_user... " />
+                <marker date="1716650215963" expanded="true" signature="7695:7768" ph="insert into VALUES" />
+                <marker date="1716650215963" expanded="true" signature="7695:7770" ph="insert into allocate_user... " />
+                <marker date="1716650215963" expanded="true" signature="8001:8094" ph="select * fro... doctor" />
+                <marker date="1716650215963" expanded="true" signature="8313:8370" ph="update login... " />
+                <marker date="1716650215963" expanded="true" signature="8598:8638" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="8657:8700" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="8936:9076" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="9298:9347" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="9581:9589" ph="select * fro... attendance" />
+                <marker date="1716650215963" expanded="true" signature="9581:9648" ph="select * fro... attendance" />
+                <marker date="1716650215963" expanded="true" signature="9870:9920" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="10148:10169" ph="select * fro... batches" />
+                <marker date="1716650215963" expanded="true" signature="10381:10423" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="10657:10682" ph="select * fro... competition" />
+                <marker date="1716650215963" expanded="true" signature="10905:10957" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="11193:11262" ph="select * fro... complaints" />
+                <marker date="1716650215963" expanded="true" signature="11577:11635" ph="update compl... " />
+                <marker date="1716650215963" expanded="true" signature="11577:11641" ph="update compl... " />
+                <marker date="1716650215963" expanded="true" signature="11896:11988" ph="select * fro... doctor" />
+                <marker date="1716650215963" expanded="true" signature="12211:12303" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="12211:12342" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="12211:12348" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="12211:12351" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="12578:12620" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="12853:12875" ph="select * fro... employee" />
+                <marker date="1716650215963" expanded="true" signature="13088:13134" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="13363:13426" ph="select * fro... feedback" />
+                <marker date="1716650215963" expanded="true" signature="13641:13687" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="13932:13963" ph="select * fro... equipment_details" />
+                <marker date="1716650215963" expanded="true" signature="14199:14255" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="14496:14590" ph="select * fro... performer" />
+                <marker date="1716650215963" expanded="true" signature="14496:14602" ph="select * fro... performer" />
+                <marker date="1716650215963" expanded="true" signature="14496:14695" ph="select * fro... performer" />
+                <marker date="1716650215963" expanded="true" signature="14912:14960" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="15192:15215" ph="select * fro... physician" />
+                <marker date="1716650215963" expanded="true" signature="15431:15479" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="15701:15759" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="15701:15785" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="15989:16044" ph="update login... " />
+                <marker date="1716650215963" expanded="true" signature="15995:16044" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="16263:16295" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="16263:16297" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="16263:16303" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="16263:16306" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="16322:16361" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="17104:17179" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="17211:17274" ph="update atten... " />
+                <marker date="1716650215963" expanded="true" signature="17211:17304" ph="update atten... " />
+                <marker date="1716650215963" expanded="true" signature="17967:18052" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="17967:18059" ph="insert into employee... " />
+                <marker date="1716650215963" expanded="true" signature="18292:18416" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18292:18440" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18292:18449" ph="select batch... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18292:18458" ph="select batch... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18292:18472" ph="select batch... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18292:18474" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="18694:18797" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="18694:18805" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="18694:18863" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="19085:19225" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="19452:19518" ph="update appli... " />
+                <marker date="1716650215963" expanded="true" signature="19537:19571" ph="insert into performer... " />
+                <marker date="1716650215963" expanded="true" signature="19537:19578" ph="insert into performer... " />
+                <marker date="1716650215963" expanded="true" signature="19537:19580" ph="insert into performer... " />
+                <marker date="1716650215963" expanded="true" signature="19821:19887" ph="update appli... " />
+                <marker date="1716650215963" expanded="true" signature="19860:19887" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="20131:20330" ph="select * fro... performer" />
+                <marker date="1716650215963" expanded="true" signature="20556:20604" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="20926:20946" ph="select * fro... compet" />
+                <marker date="1716650215963" expanded="true" signature="20926:20951" ph="select * fro... competition" />
+                <marker date="1716650215963" expanded="true" signature="21184:21236" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="21486:21587" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="21486:21591" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="21486:21593" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="21486:21597" ph="select * fro... allocate_user" />
+                <marker date="1716650215963" expanded="true" signature="21999:22015" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22023" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22038" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22050" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22063" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22078" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22079" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22087" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22088" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="21999:22090" ph="update user " />
+                <marker date="1716650215963" expanded="true" signature="22333:22355" ph="select * fro... medicine" />
+                <marker date="1716650215963" expanded="true" signature="23267:23349" ph="select * fro... stock" />
+                <marker date="1716650215963" expanded="true" signature="23267:23357" ph="select * fro... stock" />
+                <marker date="1716650215963" expanded="true" signature="23399:23476" ph="insert into stock... " />
+                <marker date="1716650215963" expanded="true" signature="23508:23538" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="23508:23561" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="23508:23586" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="24099:24155" ph="update doubt... " />
+                <marker date="1716650215963" expanded="true" signature="24382:24474" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="24382:24495" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="24382:24498" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="24382:24500" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="24716:24821" ph="SELECT * FRO... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="24716:24829" ph="SELECT * FRO... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="25044:25066" ph="select * fro... medicine" />
+                <marker date="1716650215963" expanded="true" signature="25279:25340" ph="select * fro... doubts" />
+                <marker date="1716650215963" expanded="true" signature="25562:25700" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="25562:25724" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="25887:25905" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="26801:26832" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="26801:26842" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="26801:26852" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="26801:26862" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="26880:26907" ph="insert into doctor... " />
+                <marker date="1716650215963" expanded="true" signature="26880:26982" ph="insert into doctor... " />
+                <marker date="1716650215963" expanded="true" signature="26978:26982" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="27218:27256" ph="select * fro... doctor" />
+                <marker date="1716650215963" expanded="true" signature="27218:27280" ph="select * fro... doctor" />
+                <marker date="1716650215963" expanded="true" signature="27714:27882" ph="update docto... " />
+                <marker date="1716650215963" expanded="true" signature="27714:27884" ph="update docto... " />
+                <marker date="1716650215963" expanded="true" signature="28407:28434" ph="update login... " />
+                <marker date="1716650215963" expanded="true" signature="28407:28482" ph="insert into batches... " />
+                <marker date="1716650215963" expanded="true" signature="29130:29165" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29171" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29175" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29187" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29194" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29198" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29206" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29208" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29130:29215" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29361:29393" ph="insert into schedule... " />
+                <marker date="1716650215963" expanded="true" signature="29361:29457" ph="insert into schedule... " />
+                <marker date="1716650215963" expanded="true" signature="29361:29465" ph="insert into schedule... " />
+                <marker date="1716650215963" expanded="true" signature="29361:29467" ph="insert into schedule... " />
+                <marker date="1716650215963" expanded="true" signature="29693:29707" ph="select * fro... attendance" />
+                <marker date="1716650215963" expanded="true" signature="29693:29732" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29693:29757" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="29971:30017" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="30259:30426" ph="select * fro... appointment" />
+                <marker date="1716650215963" expanded="true" signature="30687:30746" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30687:30793" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30767:30793" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30768:30793" ph="select * fro... appointment" />
+                <marker date="1716650215963" expanded="true" signature="30817:30898" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30817:30899" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30817:30912" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="30817:30914" ph="select * fro... review" />
+                <marker date="1716650215963" expanded="true" signature="31474:31545" ph="insert into chat... " />
+                <marker date="1716650215963" expanded="true" signature="31981:32020" ph="select * fro... chat" />
+                <marker date="1716650215963" expanded="true" signature="33897:33933" ph="select * fro... bank" />
+                <marker date="1716650215963" expanded="true" signature="33897:33956" ph="select * fro... bank" />
+                <marker date="1716650215963" expanded="true" signature="33897:33974" ph="select * fro... bank" />
+                <marker date="1716650215963" expanded="true" signature="33897:33983" ph="select * fro... bank" />
+                <marker date="1716650215963" expanded="true" signature="34708:34740" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="34708:34749" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="34708:34758" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="34708:34765" ph="insert into login... " />
+                <marker date="1716650215963" expanded="true" signature="34791:34816" ph="insert into user... " />
+                <marker date="1716650215963" expanded="true" signature="34791:34937" ph="insert into user... " />
+                <marker date="1716650215963" expanded="true" signature="34791:34950" ph="insert into user... " />
+                <marker date="1716650215963" expanded="true" signature="34791:34951" ph="insert into user... " />
+                <marker date="1716650215963" expanded="true" signature="34791:34953" ph="insert into user... " />
+                <marker date="1716650215963" expanded="true" signature="34977:35010" ph="update bank " />
+                <marker date="1716650215963" expanded="true" signature="34977:35033" ph="update bank " />
+                <marker date="1716650215963" expanded="true" signature="34977:35057" ph="update bank " />
+                <marker date="1716650215963" expanded="true" signature="35083:35141" ph="update bank " />
+                <marker date="1716650215963" expanded="true" signature="35590:35660" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="35590:35670" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="35590:35680" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="36117:36147" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="36117:36184" ph="insert into doubts... " />
+                <marker date="1716650215963" expanded="true" signature="36117:36203" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="36644:36676" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="36644:36722" ph="insert into complaints... " />
+                <marker date="1716650215963" expanded="true" signature="36950:36991" ph="select * fro... complaints" />
+                <marker date="1716650215963" expanded="true" signature="36950:36992" ph="select * fro... complaints" />
+                <marker date="1716650215963" expanded="true" signature="36950:37016" ph="select * fro... complaints" />
+                <marker date="1716650215963" expanded="true" signature="37232:37281" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="37503:37564" ph="select * fro... doubts" />
+                <marker date="1716650215963" expanded="true" signature="37782:37813" ph="select * fro... equipment_details" />
+                <marker date="1716650215963" expanded="true" signature="38040:38096" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="38334:38392" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="38586:38651" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="38592:38651" ph="select * fro... user" />
+                <marker date="1716650215963" expanded="true" signature="38887:38912" ph="select * fro... competition" />
+                <marker date="1716650215963" expanded="true" signature="39143:39183" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39205" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39207" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39217" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39228" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39236" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39143:39238" ph="select * fro... applicants" />
+                <marker date="1716650215963" expanded="true" signature="39379:39410" ph="insert into applicants... " />
+                <marker date="1716650215963" expanded="true" signature="39379:39472" ph="insert into applicants... " />
+                <marker date="1716650215963" expanded="true" signature="39712:39804" ph="select * fro... doctor" />
+                <marker date="1716650215963" expanded="true" signature="40033:40081" ph="select * fro... schedule" />
+                <marker date="1716650215963" expanded="true" signature="40310:40354" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40310:40355" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40310:40361" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40310:40370" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40310:40375" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40310:40399" ph="select * fro... appoinment" />
+                <marker date="1716650215963" expanded="true" signature="40555:40600" ph="select * fro... appointment" />
+                <marker date="1716650215963" expanded="true" signature="40555:40606" ph="select * fro... appointment" />
+                <marker date="1716650215963" expanded="true" signature="40702:40766" ph="select max(t... appointment" />
+                <marker date="1716650215963" expanded="true" signature="40702:40772" ph="select max(t... appointment" />
+                <marker date="1716650215963" expanded="true" signature="40980:41052" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="40980:41060" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="40980:41074" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="40980:41076" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="41206:41289" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="41206:41291" ph="insert into appointment... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41804" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41842" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41852" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41858" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41859" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="41775:41861" ph="insert into review... " />
+                <marker date="1716650215963" expanded="true" signature="42096:42266" ph="select * fro... appointment" />
+                <marker date="1716650215963" expanded="true" signature="42483:42505" ph="select * fro... medicine" />
+                <marker date="1716650215963" expanded="true" signature="42748:42762" ph="select * fro... medicine" />
+                <marker date="1716650215963" expanded="true" signature="42748:42849" ph="select * fro... physician" />
+                <marker date="1716650215963" expanded="true" signature="42748:42864" ph="select * fro... physician" />
+                <marker date="1716650215963" expanded="true" signature="43460:43481" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="43460:43502" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="43460:43524" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="43460:43573" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="43660:43717" ph="select * fro... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="43660:43722" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="43660:43727" ph="select * fro... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="43660:43734" ph="select * fro... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="43660:43748" ph="select * fro... booking_sub" />
+                <marker date="1716650215963" expanded="true" signature="43834:43876" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="43834:43882" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="43834:43892" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="43834:43897" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="43834:43910" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="43937:43990" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="43937:44003" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="44138:44157" ph="insert into booking... " />
+                <marker date="1716650215963" expanded="true" signature="44138:44174" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44138:44190" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44138:44200" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44138:44207" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44233:44290" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="44233:44306" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="44438:44500" ph="insert into booking... " />
+                <marker date="1716650215963" expanded="true" signature="44438:44541" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44563:44644" ph="insert into booking_sub... " />
+                <marker date="1716650215963" expanded="true" signature="44666:44723" ph="update stock... " />
+                <marker date="1716650215963" expanded="true" signature="44666:44740" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="44966:45005" ph="select * fro... diet" />
+                <marker date="1716650215963" expanded="true" signature="44966:45007" ph="select * fro... diet" />
+                <marker date="1716650215963" expanded="true" signature="44966:45031" ph="select * fro... diet" />
+                <marker date="1716650215963" expanded="true" signature="45255:45626" ph="select booki... booking" />
+                <marker date="1716650215963" expanded="true" signature="45255:45683" ph="select * fro... medicine" />
+                <marker date="1716650215963" expanded="true" signature="45717:46070" ph="select sum(b... booking" />
+                <marker date="1716650215963" expanded="true" signature="46426:46470" ph="delete from " />
+                <marker date="1716650215963" expanded="true" signature="48515:48609" ph="select booki... booking" />
+                <marker date="1716650215963" expanded="true" signature="48730:48756" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="48730:48791" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="48730:48792" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="48730:48805" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="48730:48807" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="49409:49507" ph="select * fro... bank" />
+                <marker date="1716650215963" expanded="true" signature="49872:49958" ph="select * fro... booking" />
+                <marker date="1716650215963" expanded="true" signature="50023:50111" ph="update bank " />
+                <marker date="1716650215963" expanded="true" signature="50145:50204" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="50145:50212" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="50145:50213" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="50145:50238" ph="update booki... " />
+                <marker date="1716650215963" expanded="true" signature="50851:50943" ph="insert into diet... " />
+                <marker date="1716650215963" expanded="true" signature="51513:51584" ph="insert into chat... " />
+                <marker date="1716650215963" expanded="true" signature="52022:52061" ph="select * fro... chat" />
+                <marker date="1716650215963" expanded="true" signature="52486:52517" ph="select * fro... equipment_details" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sql.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/tests/io/test_sql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4767">
+              <caret line="254" column="6" lean-forward="false" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
+              <folding>
+                <marker date="1678696929142" expanded="true" signature="1652:1855" ph="CREATE TABLE... iris" />
+                <marker date="1678696929142" expanded="true" signature="1880:2099" ph="CREATE TABLE... iris" />
+                <marker date="1678696929142" expanded="true" signature="2129:2388" ph="CREATE TABLE... iris" />
+                <marker date="1678696929142" expanded="true" signature="2442:2480" ph="INSERT INTO iris... " />
+                <marker date="1678696929142" expanded="true" signature="2505:2550" ph="INSERT INTO iris... " />
+                <marker date="1678696929142" expanded="true" signature="2581:2624" ph="INSERT INTO iris... " />
+                <marker date="1678696929142" expanded="true" signature="2685:3099" ph="CREATE TABLE... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="3124:3544" ph="CREATE TABLE... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="3574:4067" ph="CREATE TABLE... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="4167:4244" ph="INSERT INTO types_test_data... " />
+                <marker date="1678696929142" expanded="true" signature="4644:4732" ph="INSERT INTO types_test_data... " />
+                <marker date="1678696929142" expanded="true" signature="5137:5227" ph="INSERT INTO types_test_data... " />
+                <marker date="1678696929142" expanded="true" signature="5651:5700" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="5721:5778" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="5804:5859" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="5938:5997" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6056:6143" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6207:6292" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6381:6419" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6440:6480" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6506:6548" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="6617:6676" ph="CREATE VIEW iris_view... " />
+                <marker date="1678696929142" expanded="true" signature="6658:6676" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="7770:7819" ph="SELECT name sqlite_master" />
+                <marker date="1678696929142" expanded="true" signature="12914:12932" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="16698:16732" ph="SELECT * FRO... test_frame_roundtrip" />
+                <marker date="1678696929142" expanded="true" signature="17063:17081" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="17641:17680" ph="CREATE TABLE... test_trans" />
+                <marker date="1678696929142" expanded="true" signature="17836:17883" ph="INSERT INTO test_trans... " />
+                <marker date="1678696929142" expanded="true" signature="18170:18194" ph="SELECT * FRO... test_trans" />
+                <marker date="1678696929142" expanded="true" signature="18432:18456" ph="SELECT * FRO... test_trans" />
+                <marker date="1678696929142" expanded="true" signature="19633:19651" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="19791:19814" ph="SELECT * FRO... iris_view" />
+                <marker date="1678696929142" expanded="true" signature="21374:21399" ph="SELECT * FRO... test_frame5" />
+                <marker date="1678696929142" expanded="true" signature="21662:21687" ph="SELECT * FRO... test_series" />
+                <marker date="1678696929142" expanded="true" signature="21893:21927" ph="SELECT * FRO... test_frame_roundtrip" />
+                <marker date="1678696929142" expanded="true" signature="22431:22465" ph="SELECT * FRO... test_frame_roundtrip" />
+                <marker date="1678696929142" expanded="true" signature="22683:22701" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="22952:22981" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="23110:23139" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="23442:23471" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="23820:23849" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="24163:24192" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="24511:24540" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="24995:25024" ph="SELECT * FRO... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="25551:25579" ph="SELECT * FRO... test_timedelta" />
+                <marker date="1678696929142" expanded="true" signature="26701:26731" ph="SELECT * FRO... test_index_label" />
+                <marker date="1678696929142" expanded="true" signature="27275:27305" ph="SELECT * FRO... test_index_label" />
+                <marker date="1678696929142" expanded="true" signature="27657:27687" ph="SELECT * FRO... test_index_label" />
+                <marker date="1678696929142" expanded="true" signature="27952:27982" ph="SELECT * FRO... test_index_label" />
+                <marker date="1678696929142" expanded="true" signature="28320:28350" ph="SELECT * FRO... test_index_label" />
+                <marker date="1678696929142" expanded="true" signature="29070:29109" ph="SELECT * FRO... test_multiindex_roundtrip" />
+                <marker date="1678696929142" expanded="true" signature="30757:30785" ph="select * fro... test_chunksize" />
+                <marker date="1678696929142" expanded="true" signature="30986:31014" ph="select * fro... test_chunksize" />
+                <marker date="1678696929142" expanded="true" signature="32153:32183" ph="SELECT * FRO... test_categorical" />
+                <marker date="1678696929142" expanded="true" signature="32648:32687" ph="SELECT * FRO... d1187b08-4943-4c8d-a7f6" />
+                <marker date="1678696929142" expanded="true" signature="34210:34228" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="34278:34296" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="34629:34672" ph="CREATE TABLE... invalid" />
+                <marker date="1678696929142" expanded="true" signature="34725:34772" ph="CREATE TABLE... other_table" />
+                <marker date="1678696929142" expanded="true" signature="35088:35113" ph="SELECT * FRO... other_table" />
+                <marker date="1678696929142" expanded="true" signature="37226:37244" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="37982:38001" ph="select * fro... table" />
+                <marker date="1678696929142" expanded="true" signature="38535:38570" ph="select * fro... iris" />
+                <marker date="1678696929142" expanded="true" signature="40569:40601" ph="SELECT * FRO... test_frame3_legacy" />
+                <marker date="1678696929142" expanded="true" signature="41014:41032" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="41122:41140" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="41190:41208" ph="SELECT * FRO... iris" />
+                <marker date="1678696929142" expanded="true" signature="49020:49049" ph="select * fro... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="49500:49529" ph="select * fro... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="49943:49972" ph="select * fro... types_test_data" />
+                <marker date="1678696929142" expanded="true" signature="51529:51559" ph="SELECT * FRO... test_datetime_tz" />
+                <marker date="1678696929142" expanded="true" signature="54713:54740" ph="SELECT * FRO... test_datetime" />
+                <marker date="1678696929142" expanded="true" signature="55571:55598" ph="SELECT * FRO... test_datetime" />
+                <marker date="1678696929142" expanded="true" signature="56821:56845" ph="SELECT * FRO... test_time2" />
+                <marker date="1678696929142" expanded="true" signature="57201:57225" ph="SELECT * FRO... test_time3" />
+                <marker date="1678696929142" expanded="true" signature="58260:58282" ph="SELECT * FRO... test_nan" />
+                <marker date="1678696929142" expanded="true" signature="58847:58869" ph="SELECT * FRO... test_nan" />
+                <marker date="1678696929142" expanded="true" signature="59369:59391" ph="SELECT * FRO... test_nan" />
+                <marker date="1678696929142" expanded="true" signature="64248:64287" ph="SELECT test_... test_foo_data" />
+                <marker date="1678696929142" expanded="true" signature="77587:77610" ph="SELECT * FRO... test_date" />
+                <marker date="1678696929142" expanded="true" signature="78073:78096" ph="SELECT * FRO... test_time" />
+                <marker date="1678696929142" expanded="true" signature="78395:78489" ph="SELECT * FRO... sqlite_master" />
+                <marker date="1678696929142" expanded="true" signature="83767:83807" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="83994:84012" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="84320:84356" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="84501:84519" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="85272:85384" ph="CREATE TABLE... test" />
+                <marker date="1678696929142" expanded="true" signature="85485:85529" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="85564:85608" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="85687:85727" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="85821:85933" ph="CREATE TABLE... test" />
+                <marker date="1678696929142" expanded="true" signature="86034:86078" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="86178:86196" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="86405:86429" ph="select * fro... test_table" />
+                <marker date="1678696929142" expanded="true" signature="86887:86912" ph="select * fro... test_table2" />
+                <marker date="1678696929142" expanded="true" signature="87629:87650" ph="select * fro... mono_df" />
+                <marker date="1678696929142" expanded="true" signature="87772:87793" ph="select * fro... mono_df" />
+                <marker date="1678696929142" expanded="true" signature="92635:92660" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="92823:92863" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="93050:93068" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="93415:93440" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="93576:93594" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="93926:93951" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="94223:94263" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="94424:94442" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="94921:94946" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="95259:95284" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="95319:95437" ph="CREATE TABLE... test" />
+                <marker date="1678696929142" expanded="true" signature="95568:95612" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="95647:95691" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="95770:95810" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="95910:95935" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="95970:96088" ph="CREATE TABLE... test" />
+                <marker date="1678696929142" expanded="true" signature="96219:96263" ph="INSERT INTO test... " />
+                <marker date="1678696929142" expanded="true" signature="96363:96381" ph="select * fro... test" />
+                <marker date="1678696929142" expanded="true" signature="96612:96643" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="96921:96945" ph="select * fro... test_table" />
+                <marker date="1678696929142" expanded="true" signature="97351:97383" ph="DROP TABLE I... " />
+                <marker date="1678696929142" expanded="true" signature="97663:97688" ph="select * fro... test_table2" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_doctor_review.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/view_doctor_review.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add_physician.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/admin/Add_physician.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_gym_equipments.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/view_gym_equipments.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heart.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/heart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="march_07.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/march_07.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>doctor_register</find>
+      <find>block</find>
+      <find>progra</find>
+      <find>view_profile</find>
+      <find>315296508_115447734703593_1613571023728919283_n.mp4</find>
+      <find>send</find>
+      <find>add_employee_post</find>
+      <find>conta</find>
+      <find>login</find>
+      <find>logout</find>
+      <find>Sed amet tempor amet sit kasd sea lorem dolor ipsum elitr dolor amet kasd elitr duo vero amet amet stet</find>
+      <find>Heart</find>
+      <find>{%e</find>
+      <find>pa</find>
+      <find>ss</find>
+      <find>user_view_physician</find>
+      <find>payment_mode_post</find>
+      <find>/payment_mode</find>
+      <find>update bank set</find>
+      <find>bank_pay</find>
+      <find>BICEP WORKOUT</find>
+      <find>BICEP WORKOut</find>
+      <find>ADAm</find>
+      <find>admin/view_c</find>
+      <find>view_competitions</find>
+      <find>view_applicant</find>
+      <find>heart</find>
+      <find>payment_mode</find>
+      <find>physician</find>
+      <find>view_cart</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/static/main_temp/css/</replace>
+      <replace>/static/main_temp/img/</replace>
+      <replace>/static/main_temp/js/</replace>
+      <replace>/static/main_temp/lib/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/admin/view_gym_requirement.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_user.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_profile.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/view_user.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/view_gyuser.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/view_doubts.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_competition.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Approve_Doctor.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_doctor_review.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_doubts.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_complaints.html" />
+        <option value="$PROJECT_DIR$/templates/user/send_feedback.html" />
+        <option value="$PROJECT_DIR$/templates/user/user_doctor_chat.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/doctor_user_chat.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_diet.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/send_doubt_reply.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/add_stock.html" />
+        <option value="$PROJECT_DIR$/templates/reg_index.html" />
+        <option value="$PROJECT_DIR$/templates/user/enter_quantity.html" />
+        <option value="$PROJECT_DIR$/templates/user/bank_payment.html" />
+        <option value="$PROJECT_DIR$/templates/user/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/Add_physician.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/register.html" />
+        <option value="$PROJECT_DIR$/templates/user/registration2.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_doctor.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/view_booking.html" />
+        <option value="$PROJECT_DIR$/templates/Physician/view_medicine.html" />
+        <option value="$PROJECT_DIR$/templates/admin/send_reply.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_complaints.html" />
+        <option value="$PROJECT_DIR$/templates/admin/View_attendence.html" />
+        <option value="$PROJECT_DIR$/templates/view_gym_equipments.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_competition.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view_applicants.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/view_applicant.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/index.html" />
+        <option value="$PROJECT_DIR$/templates/heart.html" />
+        <option value="$PROJECT_DIR$/templates/user/registration1.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_cart.html" />
+        <option value="$PROJECT_DIR$/templates/user/bank_payment2.html" />
+        <option value="$PROJECT_DIR$/templates/user/payment_mode.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_physician.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_gym_equipments.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/view_performers.html" />
+        <option value="$PROJECT_DIR$/templates/user/view_complaints.html" />
+        <option value="$PROJECT_DIR$/templates/doctor/index.html" />
+        <option value="$PROJECT_DIR$/templates/admin/index.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/view_gycompetition.html" />
+        <option value="$PROJECT_DIR$/templates/Instructor/view_gyupdateuser.html" />
+        <option value="$PROJECT_DIR$/ai_fitness_center.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="C:">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="LENOVO">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ai_fitness_center">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ai_fitness_center">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="templates">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Physician" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Instructor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ai_fitness_center" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main_temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="ALCHEMY&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="E:/MCA/SEM 3/ecp/College-Mate-main/College-Mate-main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\static\workout_demo" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\templates" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\static" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\static\main_temp\img" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\templates\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\templates\Instructor" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\templates\admin" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\templates" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\static\main_temp\img" />
+      <recent name="C:\Users\albin\PycharmProjects\ai_fitness_center\static\workout_demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ai_fitness_center">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ai_fitness_center/templates/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ai_fitness_center" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ai_fitness_center" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ai_fitness_center" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai_fitness_center.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.ai_fitness_center" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55999d31-ee86-473f-9f65-40912909d9c5" name="Default" comment="" />
+      <created>1671079336787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671079336787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1038" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20247047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2416953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977092" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_fitness_center.py</url>
+          <line>757</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_fitness_center.py</url>
+          <line>1311</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_fitness_center.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/admin/view_batches.html</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/doctor/change_password.html</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/doctor/add_schedule.html</url>
+          <line>1</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/admin/view_competition.html</url>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/user/view_doctor_schedule.html</url>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/user/view_complaints.html</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/Instructor/view_gyupdateuser.html</url>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_gym_requirement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Physician/send_doubt_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/send_reply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/View_attendence.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_competition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Approve_Doctor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_employee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/gyminstructor_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_applicants.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_performer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/heart_new.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/payment_mode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_medicines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_physician.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_applicant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_gym_equipments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="32" column="77" lean-forward="false" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_performers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_complaints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="83" lean-forward="false" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/view_complaints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="97" column="99" lean-forward="false" selection-start-line="97" selection-start-column="99" selection-end-line="97" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Physician/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2226">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17367">
+          <caret line="827" column="37" lean-forward="false" selection-start-line="827" selection-start-column="37" selection-end-line="827" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2247">
+          <caret line="107" column="106" lean-forward="false" selection-start-line="107" selection-start-column="106" selection-end-line="107" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/heart.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_competition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_gymedicine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/flask/app.py" />
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_gycompetition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/bank_payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/bank_payment2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="75" lean-forward="false" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/registration2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_gybatches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Instructor/view_gyupdateuser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user/registration1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="62" column="41" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/view_appointment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doctor/add_schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_feb_13.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_batches.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/add_competition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/Add_physician.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/view_gym_equipments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/march_07.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/view_doctor_review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/heart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/tests/io/test_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4767">
+          <caret line="254" column="6" lean-forward="false" selection-start-line="254" selection-start-column="6" selection-end-line="254" selection-end-column="6" />
+          <folding>
+            <marker date="1678696929142" expanded="true" signature="1652:1855" ph="CREATE TABLE... iris" />
+            <marker date="1678696929142" expanded="true" signature="1880:2099" ph="CREATE TABLE... iris" />
+            <marker date="1678696929142" expanded="true" signature="2129:2388" ph="CREATE TABLE... iris" />
+            <marker date="1678696929142" expanded="true" signature="2442:2480" ph="INSERT INTO iris... " />
+            <marker date="1678696929142" expanded="true" signature="2505:2550" ph="INSERT INTO iris... " />
+            <marker date="1678696929142" expanded="true" signature="2581:2624" ph="INSERT INTO iris... " />
+            <marker date="1678696929142" expanded="true" signature="2685:3099" ph="CREATE TABLE... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="3124:3544" ph="CREATE TABLE... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="3574:4067" ph="CREATE TABLE... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="4167:4244" ph="INSERT INTO types_test_data... " />
+            <marker date="1678696929142" expanded="true" signature="4644:4732" ph="INSERT INTO types_test_data... " />
+            <marker date="1678696929142" expanded="true" signature="5137:5227" ph="INSERT INTO types_test_data... " />
+            <marker date="1678696929142" expanded="true" signature="5651:5700" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="5721:5778" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="5804:5859" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="5938:5997" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6056:6143" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6207:6292" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6381:6419" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6440:6480" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6506:6548" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="6617:6676" ph="CREATE VIEW iris_view... " />
+            <marker date="1678696929142" expanded="true" signature="6658:6676" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="7770:7819" ph="SELECT name sqlite_master" />
+            <marker date="1678696929142" expanded="true" signature="12914:12932" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="16698:16732" ph="SELECT * FRO... test_frame_roundtrip" />
+            <marker date="1678696929142" expanded="true" signature="17063:17081" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="17641:17680" ph="CREATE TABLE... test_trans" />
+            <marker date="1678696929142" expanded="true" signature="17836:17883" ph="INSERT INTO test_trans... " />
+            <marker date="1678696929142" expanded="true" signature="18170:18194" ph="SELECT * FRO... test_trans" />
+            <marker date="1678696929142" expanded="true" signature="18432:18456" ph="SELECT * FRO... test_trans" />
+            <marker date="1678696929142" expanded="true" signature="19633:19651" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="19791:19814" ph="SELECT * FRO... iris_view" />
+            <marker date="1678696929142" expanded="true" signature="21374:21399" ph="SELECT * FRO... test_frame5" />
+            <marker date="1678696929142" expanded="true" signature="21662:21687" ph="SELECT * FRO... test_series" />
+            <marker date="1678696929142" expanded="true" signature="21893:21927" ph="SELECT * FRO... test_frame_roundtrip" />
+            <marker date="1678696929142" expanded="true" signature="22431:22465" ph="SELECT * FRO... test_frame_roundtrip" />
+            <marker date="1678696929142" expanded="true" signature="22683:22701" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="22952:22981" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="23110:23139" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="23442:23471" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="23820:23849" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="24163:24192" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="24511:24540" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="24995:25024" ph="SELECT * FRO... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="25551:25579" ph="SELECT * FRO... test_timedelta" />
+            <marker date="1678696929142" expanded="true" signature="26701:26731" ph="SELECT * FRO... test_index_label" />
+            <marker date="1678696929142" expanded="true" signature="27275:27305" ph="SELECT * FRO... test_index_label" />
+            <marker date="1678696929142" expanded="true" signature="27657:27687" ph="SELECT * FRO... test_index_label" />
+            <marker date="1678696929142" expanded="true" signature="27952:27982" ph="SELECT * FRO... test_index_label" />
+            <marker date="1678696929142" expanded="true" signature="28320:28350" ph="SELECT * FRO... test_index_label" />
+            <marker date="1678696929142" expanded="true" signature="29070:29109" ph="SELECT * FRO... test_multiindex_roundtrip" />
+            <marker date="1678696929142" expanded="true" signature="30757:30785" ph="select * fro... test_chunksize" />
+            <marker date="1678696929142" expanded="true" signature="30986:31014" ph="select * fro... test_chunksize" />
+            <marker date="1678696929142" expanded="true" signature="32153:32183" ph="SELECT * FRO... test_categorical" />
+            <marker date="1678696929142" expanded="true" signature="32648:32687" ph="SELECT * FRO... d1187b08-4943-4c8d-a7f6" />
+            <marker date="1678696929142" expanded="true" signature="34210:34228" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="34278:34296" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="34629:34672" ph="CREATE TABLE... invalid" />
+            <marker date="1678696929142" expanded="true" signature="34725:34772" ph="CREATE TABLE... other_table" />
+            <marker date="1678696929142" expanded="true" signature="35088:35113" ph="SELECT * FRO... other_table" />
+            <marker date="1678696929142" expanded="true" signature="37226:37244" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="37982:38001" ph="select * fro... table" />
+            <marker date="1678696929142" expanded="true" signature="38535:38570" ph="select * fro... iris" />
+            <marker date="1678696929142" expanded="true" signature="40569:40601" ph="SELECT * FRO... test_frame3_legacy" />
+            <marker date="1678696929142" expanded="true" signature="41014:41032" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="41122:41140" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="41190:41208" ph="SELECT * FRO... iris" />
+            <marker date="1678696929142" expanded="true" signature="49020:49049" ph="select * fro... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="49500:49529" ph="select * fro... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="49943:49972" ph="select * fro... types_test_data" />
+            <marker date="1678696929142" expanded="true" signature="51529:51559" ph="SELECT * FRO... test_datetime_tz" />
+            <marker date="1678696929142" expanded="true" signature="54713:54740" ph="SELECT * FRO... test_datetime" />
+            <marker date="1678696929142" expanded="true" signature="55571:55598" ph="SELECT * FRO... test_datetime" />
+            <marker date="1678696929142" expanded="true" signature="56821:56845" ph="SELECT * FRO... test_time2" />
+            <marker date="1678696929142" expanded="true" signature="57201:57225" ph="SELECT * FRO... test_time3" />
+            <marker date="1678696929142" expanded="true" signature="58260:58282" ph="SELECT * FRO... test_nan" />
+            <marker date="1678696929142" expanded="true" signature="58847:58869" ph="SELECT * FRO... test_nan" />
+            <marker date="1678696929142" expanded="true" signature="59369:59391" ph="SELECT * FRO... test_nan" />
+            <marker date="1678696929142" expanded="true" signature="64248:64287" ph="SELECT test_... test_foo_data" />
+            <marker date="1678696929142" expanded="true" signature="77587:77610" ph="SELECT * FRO... test_date" />
+            <marker date="1678696929142" expanded="true" signature="78073:78096" ph="SELECT * FRO... test_time" />
+            <marker date="1678696929142" expanded="true" signature="78395:78489" ph="SELECT * FRO... sqlite_master" />
+            <marker date="1678696929142" expanded="true" signature="83767:83807" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="83994:84012" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="84320:84356" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="84501:84519" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="85272:85384" ph="CREATE TABLE... test" />
+            <marker date="1678696929142" expanded="true" signature="85485:85529" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="85564:85608" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="85687:85727" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="85821:85933" ph="CREATE TABLE... test" />
+            <marker date="1678696929142" expanded="true" signature="86034:86078" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="86178:86196" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="86405:86429" ph="select * fro... test_table" />
+            <marker date="1678696929142" expanded="true" signature="86887:86912" ph="select * fro... test_table2" />
+            <marker date="1678696929142" expanded="true" signature="87629:87650" ph="select * fro... mono_df" />
+            <marker date="1678696929142" expanded="true" signature="87772:87793" ph="select * fro... mono_df" />
+            <marker date="1678696929142" expanded="true" signature="92635:92660" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="92823:92863" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="93050:93068" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="93415:93440" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="93576:93594" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="93926:93951" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="94223:94263" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="94424:94442" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="94921:94946" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="95259:95284" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="95319:95437" ph="CREATE TABLE... test" />
+            <marker date="1678696929142" expanded="true" signature="95568:95612" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="95647:95691" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="95770:95810" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="95910:95935" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="95970:96088" ph="CREATE TABLE... test" />
+            <marker date="1678696929142" expanded="true" signature="96219:96263" ph="INSERT INTO test... " />
+            <marker date="1678696929142" expanded="true" signature="96363:96381" ph="select * fro... test" />
+            <marker date="1678696929142" expanded="true" signature="96612:96643" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="96921:96945" ph="select * fro... test_table" />
+            <marker date="1678696929142" expanded="true" signature="97351:97383" ph="DROP TABLE I... " />
+            <marker date="1678696929142" expanded="true" signature="97663:97688" ph="select * fro... test_table2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_fitness_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="71" lean-forward="false" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1716650215963" expanded="true" signature="900:936" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="900:942" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="900:957" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="900:963" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="2506:2537" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="2506:2546" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="2506:2554" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="2506:2555" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="2506:2564" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="2506:2572" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="3096:3168" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="3096:3169" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="3825:3881" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="3825:3890" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="3825:3906" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="3825:3919" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="3937:4006" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="3937:4016" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="3937:4024" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="3937:4032" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="5118:5154" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="5118:5161" ph="select * fro... login" />
+            <marker date="1716650215963" expanded="true" signature="5321:5423" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="5445:5534" ph="insert into physician... " />
+            <marker date="1716650215963" expanded="true" signature="5445:5542" ph="insert into physician... " />
+            <marker date="1716650215963" expanded="true" signature="6689:6756" ph="insert into equipment_details... " />
+            <marker date="1716650215963" expanded="true" signature="6689:6775" ph="insert into physician... " />
+            <marker date="1716650215963" expanded="true" signature="7026:7045" ph="select * fro... batch" />
+            <marker date="1716650215963" expanded="true" signature="7026:7047" ph="select * fro... batches" />
+            <marker date="1716650215963" expanded="true" signature="7070:7084" ph="select * fro... i" />
+            <marker date="1716650215963" expanded="true" signature="7070:7092" ph="select * fro... employee" />
+            <marker date="1716650215963" expanded="true" signature="7447:7490" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7501" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7511" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7516" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7522" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7541" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7542" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7548" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7447:7551" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="7695:7707" ph="insert into db" />
+            <marker date="1716650215963" expanded="true" signature="7695:7732" ph="insert into allocate_user... " />
+            <marker date="1716650215963" expanded="true" signature="7695:7768" ph="insert into VALUES" />
+            <marker date="1716650215963" expanded="true" signature="7695:7770" ph="insert into allocate_user... " />
+            <marker date="1716650215963" expanded="true" signature="8001:8094" ph="select * fro... doctor" />
+            <marker date="1716650215963" expanded="true" signature="8313:8370" ph="update login... " />
+            <marker date="1716650215963" expanded="true" signature="8598:8638" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="8657:8700" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="8936:9076" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="9298:9347" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="9581:9589" ph="select * fro... attendance" />
+            <marker date="1716650215963" expanded="true" signature="9581:9648" ph="select * fro... attendance" />
+            <marker date="1716650215963" expanded="true" signature="9870:9920" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="10148:10169" ph="select * fro... batches" />
+            <marker date="1716650215963" expanded="true" signature="10381:10423" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="10657:10682" ph="select * fro... competition" />
+            <marker date="1716650215963" expanded="true" signature="10905:10957" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="11193:11262" ph="select * fro... complaints" />
+            <marker date="1716650215963" expanded="true" signature="11577:11635" ph="update compl... " />
+            <marker date="1716650215963" expanded="true" signature="11577:11641" ph="update compl... " />
+            <marker date="1716650215963" expanded="true" signature="11896:11988" ph="select * fro... doctor" />
+            <marker date="1716650215963" expanded="true" signature="12211:12303" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="12211:12342" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="12211:12348" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="12211:12351" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="12578:12620" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="12853:12875" ph="select * fro... employee" />
+            <marker date="1716650215963" expanded="true" signature="13088:13134" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="13363:13426" ph="select * fro... feedback" />
+            <marker date="1716650215963" expanded="true" signature="13641:13687" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="13932:13963" ph="select * fro... equipment_details" />
+            <marker date="1716650215963" expanded="true" signature="14199:14255" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="14496:14590" ph="select * fro... performer" />
+            <marker date="1716650215963" expanded="true" signature="14496:14602" ph="select * fro... performer" />
+            <marker date="1716650215963" expanded="true" signature="14496:14695" ph="select * fro... performer" />
+            <marker date="1716650215963" expanded="true" signature="14912:14960" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="15192:15215" ph="select * fro... physician" />
+            <marker date="1716650215963" expanded="true" signature="15431:15479" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="15701:15759" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="15701:15785" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="15989:16044" ph="update login... " />
+            <marker date="1716650215963" expanded="true" signature="15995:16044" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="16263:16295" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="16263:16297" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="16263:16303" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="16263:16306" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="16322:16361" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="17104:17179" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="17211:17274" ph="update atten... " />
+            <marker date="1716650215963" expanded="true" signature="17211:17304" ph="update atten... " />
+            <marker date="1716650215963" expanded="true" signature="17967:18052" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="17967:18059" ph="insert into employee... " />
+            <marker date="1716650215963" expanded="true" signature="18292:18416" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18292:18440" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18292:18449" ph="select batch... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18292:18458" ph="select batch... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18292:18472" ph="select batch... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18292:18474" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="18694:18797" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="18694:18805" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="18694:18863" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="19085:19225" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="19452:19518" ph="update appli... " />
+            <marker date="1716650215963" expanded="true" signature="19537:19571" ph="insert into performer... " />
+            <marker date="1716650215963" expanded="true" signature="19537:19578" ph="insert into performer... " />
+            <marker date="1716650215963" expanded="true" signature="19537:19580" ph="insert into performer... " />
+            <marker date="1716650215963" expanded="true" signature="19821:19887" ph="update appli... " />
+            <marker date="1716650215963" expanded="true" signature="19860:19887" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="20131:20330" ph="select * fro... performer" />
+            <marker date="1716650215963" expanded="true" signature="20556:20604" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="20926:20946" ph="select * fro... compet" />
+            <marker date="1716650215963" expanded="true" signature="20926:20951" ph="select * fro... competition" />
+            <marker date="1716650215963" expanded="true" signature="21184:21236" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="21486:21587" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="21486:21591" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="21486:21593" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="21486:21597" ph="select * fro... allocate_user" />
+            <marker date="1716650215963" expanded="true" signature="21999:22015" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22023" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22038" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22050" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22063" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22078" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22079" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22087" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22088" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="21999:22090" ph="update user " />
+            <marker date="1716650215963" expanded="true" signature="22333:22355" ph="select * fro... medicine" />
+            <marker date="1716650215963" expanded="true" signature="23267:23349" ph="select * fro... stock" />
+            <marker date="1716650215963" expanded="true" signature="23267:23357" ph="select * fro... stock" />
+            <marker date="1716650215963" expanded="true" signature="23399:23476" ph="insert into stock... " />
+            <marker date="1716650215963" expanded="true" signature="23508:23538" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="23508:23561" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="23508:23586" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="24099:24155" ph="update doubt... " />
+            <marker date="1716650215963" expanded="true" signature="24382:24474" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="24382:24495" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="24382:24498" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="24382:24500" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="24716:24821" ph="SELECT * FRO... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="24716:24829" ph="SELECT * FRO... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="25044:25066" ph="select * fro... medicine" />
+            <marker date="1716650215963" expanded="true" signature="25279:25340" ph="select * fro... doubts" />
+            <marker date="1716650215963" expanded="true" signature="25562:25700" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="25562:25724" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="25887:25905" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="26801:26832" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="26801:26842" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="26801:26852" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="26801:26862" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="26880:26907" ph="insert into doctor... " />
+            <marker date="1716650215963" expanded="true" signature="26880:26982" ph="insert into doctor... " />
+            <marker date="1716650215963" expanded="true" signature="26978:26982" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="27218:27256" ph="select * fro... doctor" />
+            <marker date="1716650215963" expanded="true" signature="27218:27280" ph="select * fro... doctor" />
+            <marker date="1716650215963" expanded="true" signature="27714:27882" ph="update docto... " />
+            <marker date="1716650215963" expanded="true" signature="27714:27884" ph="update docto... " />
+            <marker date="1716650215963" expanded="true" signature="28407:28434" ph="update login... " />
+            <marker date="1716650215963" expanded="true" signature="28407:28482" ph="insert into batches... " />
+            <marker date="1716650215963" expanded="true" signature="29130:29165" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29171" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29175" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29187" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29194" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29198" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29206" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29208" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29130:29215" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29361:29393" ph="insert into schedule... " />
+            <marker date="1716650215963" expanded="true" signature="29361:29457" ph="insert into schedule... " />
+            <marker date="1716650215963" expanded="true" signature="29361:29465" ph="insert into schedule... " />
+            <marker date="1716650215963" expanded="true" signature="29361:29467" ph="insert into schedule... " />
+            <marker date="1716650215963" expanded="true" signature="29693:29707" ph="select * fro... attendance" />
+            <marker date="1716650215963" expanded="true" signature="29693:29732" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29693:29757" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="29971:30017" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="30259:30426" ph="select * fro... appointment" />
+            <marker date="1716650215963" expanded="true" signature="30687:30746" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30687:30793" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30767:30793" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30768:30793" ph="select * fro... appointment" />
+            <marker date="1716650215963" expanded="true" signature="30817:30898" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30817:30899" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30817:30912" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="30817:30914" ph="select * fro... review" />
+            <marker date="1716650215963" expanded="true" signature="31474:31545" ph="insert into chat... " />
+            <marker date="1716650215963" expanded="true" signature="31981:32020" ph="select * fro... chat" />
+            <marker date="1716650215963" expanded="true" signature="33897:33933" ph="select * fro... bank" />
+            <marker date="1716650215963" expanded="true" signature="33897:33956" ph="select * fro... bank" />
+            <marker date="1716650215963" expanded="true" signature="33897:33974" ph="select * fro... bank" />
+            <marker date="1716650215963" expanded="true" signature="33897:33983" ph="select * fro... bank" />
+            <marker date="1716650215963" expanded="true" signature="34708:34740" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="34708:34749" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="34708:34758" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="34708:34765" ph="insert into login... " />
+            <marker date="1716650215963" expanded="true" signature="34791:34816" ph="insert into user... " />
+            <marker date="1716650215963" expanded="true" signature="34791:34937" ph="insert into user... " />
+            <marker date="1716650215963" expanded="true" signature="34791:34950" ph="insert into user... " />
+            <marker date="1716650215963" expanded="true" signature="34791:34951" ph="insert into user... " />
+            <marker date="1716650215963" expanded="true" signature="34791:34953" ph="insert into user... " />
+            <marker date="1716650215963" expanded="true" signature="34977:35010" ph="update bank " />
+            <marker date="1716650215963" expanded="true" signature="34977:35033" ph="update bank " />
+            <marker date="1716650215963" expanded="true" signature="34977:35057" ph="update bank " />
+            <marker date="1716650215963" expanded="true" signature="35083:35141" ph="update bank " />
+            <marker date="1716650215963" expanded="true" signature="35590:35660" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="35590:35670" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="35590:35680" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="36117:36147" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="36117:36184" ph="insert into doubts... " />
+            <marker date="1716650215963" expanded="true" signature="36117:36203" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="36644:36676" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="36644:36722" ph="insert into complaints... " />
+            <marker date="1716650215963" expanded="true" signature="36950:36991" ph="select * fro... complaints" />
+            <marker date="1716650215963" expanded="true" signature="36950:36992" ph="select * fro... complaints" />
+            <marker date="1716650215963" expanded="true" signature="36950:37016" ph="select * fro... complaints" />
+            <marker date="1716650215963" expanded="true" signature="37232:37281" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="37503:37564" ph="select * fro... doubts" />
+            <marker date="1716650215963" expanded="true" signature="37782:37813" ph="select * fro... equipment_details" />
+            <marker date="1716650215963" expanded="true" signature="38040:38096" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="38334:38392" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="38586:38651" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="38592:38651" ph="select * fro... user" />
+            <marker date="1716650215963" expanded="true" signature="38887:38912" ph="select * fro... competition" />
+            <marker date="1716650215963" expanded="true" signature="39143:39183" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39205" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39207" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39217" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39228" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39236" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39143:39238" ph="select * fro... applicants" />
+            <marker date="1716650215963" expanded="true" signature="39379:39410" ph="insert into applicants... " />
+            <marker date="1716650215963" expanded="true" signature="39379:39472" ph="insert into applicants... " />
+            <marker date="1716650215963" expanded="true" signature="39712:39804" ph="select * fro... doctor" />
+            <marker date="1716650215963" expanded="true" signature="40033:40081" ph="select * fro... schedule" />
+            <marker date="1716650215963" expanded="true" signature="40310:40354" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40310:40355" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40310:40361" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40310:40370" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40310:40375" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40310:40399" ph="select * fro... appoinment" />
+            <marker date="1716650215963" expanded="true" signature="40555:40600" ph="select * fro... appointment" />
+            <marker date="1716650215963" expanded="true" signature="40555:40606" ph="select * fro... appointment" />
+            <marker date="1716650215963" expanded="true" signature="40702:40766" ph="select max(t... appointment" />
+            <marker date="1716650215963" expanded="true" signature="40702:40772" ph="select max(t... appointment" />
+            <marker date="1716650215963" expanded="true" signature="40980:41052" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="40980:41060" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="40980:41074" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="40980:41076" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="41206:41289" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="41206:41291" ph="insert into appointment... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41804" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41842" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41852" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41858" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41859" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="41775:41861" ph="insert into review... " />
+            <marker date="1716650215963" expanded="true" signature="42096:42266" ph="select * fro... appointment" />
+            <marker date="1716650215963" expanded="true" signature="42483:42505" ph="select * fro... medicine" />
+            <marker date="1716650215963" expanded="true" signature="42748:42762" ph="select * fro... medicine" />
+            <marker date="1716650215963" expanded="true" signature="42748:42849" ph="select * fro... physician" />
+            <marker date="1716650215963" expanded="true" signature="42748:42864" ph="select * fro... physician" />
+            <marker date="1716650215963" expanded="true" signature="43460:43481" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="43460:43502" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="43460:43524" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="43460:43573" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="43660:43717" ph="select * fro... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="43660:43722" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="43660:43727" ph="select * fro... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="43660:43734" ph="select * fro... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="43660:43748" ph="select * fro... booking_sub" />
+            <marker date="1716650215963" expanded="true" signature="43834:43876" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="43834:43882" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="43834:43892" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="43834:43897" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="43834:43910" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="43937:43990" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="43937:44003" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="44138:44157" ph="insert into booking... " />
+            <marker date="1716650215963" expanded="true" signature="44138:44174" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44138:44190" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44138:44200" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44138:44207" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44233:44290" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="44233:44306" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="44438:44500" ph="insert into booking... " />
+            <marker date="1716650215963" expanded="true" signature="44438:44541" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44563:44644" ph="insert into booking_sub... " />
+            <marker date="1716650215963" expanded="true" signature="44666:44723" ph="update stock... " />
+            <marker date="1716650215963" expanded="true" signature="44666:44740" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="44966:45005" ph="select * fro... diet" />
+            <marker date="1716650215963" expanded="true" signature="44966:45007" ph="select * fro... diet" />
+            <marker date="1716650215963" expanded="true" signature="44966:45031" ph="select * fro... diet" />
+            <marker date="1716650215963" expanded="true" signature="45255:45626" ph="select booki... booking" />
+            <marker date="1716650215963" expanded="true" signature="45255:45683" ph="select * fro... medicine" />
+            <marker date="1716650215963" expanded="true" signature="45717:46070" ph="select sum(b... booking" />
+            <marker date="1716650215963" expanded="true" signature="46426:46470" ph="delete from " />
+            <marker date="1716650215963" expanded="true" signature="48515:48609" ph="select booki... booking" />
+            <marker date="1716650215963" expanded="true" signature="48730:48756" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="48730:48791" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="48730:48792" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="48730:48805" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="48730:48807" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="49409:49507" ph="select * fro... bank" />
+            <marker date="1716650215963" expanded="true" signature="49872:49958" ph="select * fro... booking" />
+            <marker date="1716650215963" expanded="true" signature="50023:50111" ph="update bank " />
+            <marker date="1716650215963" expanded="true" signature="50145:50204" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="50145:50212" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="50145:50213" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="50145:50238" ph="update booki... " />
+            <marker date="1716650215963" expanded="true" signature="50851:50943" ph="insert into diet... " />
+            <marker date="1716650215963" expanded="true" signature="51513:51584" ph="insert into chat... " />
+            <marker date="1716650215963" expanded="true" signature="52022:52061" ph="select * fro... chat" />
+            <marker date="1716650215963" expanded="true" signature="52486:52517" ph="select * fro... equipment_details" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
